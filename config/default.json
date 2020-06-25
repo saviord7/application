@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoURI": "mongodb+srv://dmitry:Ta31071990@cluster0-ijev6.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "zenit fc spb",
+  "baseURL": "http://localhost:5000"
+}
